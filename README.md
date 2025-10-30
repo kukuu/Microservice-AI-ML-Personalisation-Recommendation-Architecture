@@ -17,3 +17,8 @@ https://github.com/kukuu/system-design-architecture/blob/master/AI-recommendatio
 
 ## Recommendation Types & Technologies
 https://github.com/kukuu/system-design-architecture/blob/master/recommendations-proposed-types-technologies.md
+
+
+## Targeting a Potential Customer:
+
+https://github.com/kukuu/AI-recommendation-real-time-tracking/blob/main/README.md
