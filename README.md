@@ -1,4 +1,4 @@
-# Microservice AI-ML personalisation Recommendation Architecture
+# Microservice AI-ML Personalisation Recommendation Architecture
 
 AI Real Time Tracking - Recommendation Architecture
  
