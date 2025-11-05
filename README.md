@@ -12,7 +12,7 @@ https://github.com/kukuu/AI-recommendation-real-time-tracking/blob/main/README.m
 https://github.com/kukuu/system-design-architecture/blob/master/detailed-breakdown-data-layer-microservice.md
 
 ## Synergies : Content Creation
-https://github.com/kukuu/system-design-architecture/blob/master/AI-recommendation-synergies.md
+https://github.com/kukuu/system-design-architecture/blob/master/AI-recommendation-synergies.md 
 
 
 ## Recommendation Types & Technologies
